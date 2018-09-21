@@ -18,4 +18,8 @@ After that local gulp can be launched like this:
 ```
 
 ## List of content
-* [Copy files depending of their extensions](./recipes/copy_files_depending_of_their_extensions/description.md)
+* Common
+  * [Copy files depending of their extensions](./recipes/copy_files_depending_of_their_extensions/description.md)
+* CSS
+  * [Less and Autoprefixer](./recipes/less_and_autoprefixer/description.md)
+* JS
