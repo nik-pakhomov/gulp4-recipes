@@ -23,6 +23,7 @@ After that local gulp can be launched like this:
   * [Rich gulp output with debug info](./recipes/rich_gulp_output_with_debug_info/description.md)
   * [Add source maps to JS or CSS](./recipes/add_source_maps_to_js_or_css/description.md)
   * [Use different gulp pipeline depends on environment](./recipes/use_different_gulp_pipeline_depends_on_environment/description.md)
+  * [Delete files](./recipes/delete_files/description.md)
 * CSS
   * [Less and Autoprefixer](./recipes/less_and_autoprefixer/description.md)
 * JS
