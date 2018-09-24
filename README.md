@@ -25,6 +25,7 @@ After that local gulp can be launched like this:
   * [Use different gulp pipeline depends on environment](./recipes/use_different_gulp_pipeline_depends_on_environment/description.md)
   * [Delete files](./recipes/delete_files/description.md)
   * [Watcher](./recipes/watcher/description.md)
+  * [Add hash to file names](./recipes/add_hash_to_file_names/description.md)
 * CSS
   * [Less and Autoprefixer](./recipes/less_and_autoprefixer/description.md)
   * [Minify CSS](./recipes/minify_css/description.md)
