@@ -20,6 +20,7 @@ After that local gulp can be launched like this:
 ## List of content
 * Common
   * [Copy files depending of their extensions](./recipes/copy_files_depending_of_their_extensions/description.md)
+  * [Rich gulp output with debug info](./recipes/rich_gulp_output_with_debug_info/description.md)
 * CSS
   * [Less and Autoprefixer](./recipes/less_and_autoprefixer/description.md)
 * JS
