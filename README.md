@@ -26,4 +26,5 @@ After that local gulp can be launched like this:
   * [Delete files](./recipes/delete_files/description.md)
 * CSS
   * [Less and Autoprefixer](./recipes/less_and_autoprefixer/description.md)
+  * [Watcher](./recipes/watcher/description.md)
 * JS
