@@ -12,3 +12,8 @@ gulp.task("styles", function() {
 });
 
 gulp.watch("src/css/*", gulp.series("styles"));
+
+// To prevent watcher run after styles task has been finished
+gulp.task("watch", function() {
+    gulp.watch("src/css/*", gulp.series("styles"));
+});
