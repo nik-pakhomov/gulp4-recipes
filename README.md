@@ -26,6 +26,7 @@ After that local gulp can be launched like this:
   * [Delete files](./recipes/delete_files/description.md)
   * [Watcher](./recipes/watcher/description.md)
   * [Add hash to file names](./recipes/add_hash_to_file_names/description.md)
+  * [Copy only files that have been changed](./recipes/copy_only_files_that_have_been_changed/description.md)
 * CSS
   * [Less and Autoprefixer](./recipes/less_and_autoprefixer/description.md)
   * [Minify CSS](./recipes/minify_css/description.md)
