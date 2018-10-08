@@ -33,3 +33,4 @@ After that local gulp can be launched like this:
   * [Minify CSS](./recipes/minify_css/description.md)
 * JS
 * Images
+  * [Minify graphical images](./recipes/minify_graphical_images/description.md)
