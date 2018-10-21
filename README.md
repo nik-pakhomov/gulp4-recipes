@@ -30,6 +30,7 @@ After that local gulp can be launched like this:
   * [Filter only files that have been changed - gulp-newer](./recipes/filter_only_files_that_have_been_changed_gulp_newer/description.md)
   * [Browser-sync, watch, build](./recipes/browser-sync_watch_build/description.md)
   * [Error notifications](./recipes/error_notifications/description.md)
+  * [Add prefix and postfix to file content](./recipes/add_prefix_and_postfix_to_file_content/description.md)
 * CSS
   * [Less and Autoprefixer](./recipes/less_and_autoprefixer/description.md)
   * [Minify CSS](./recipes/minify_css/description.md)
