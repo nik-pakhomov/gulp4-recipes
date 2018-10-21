@@ -19,18 +19,18 @@ After that local gulp can be launched like this:
 
 ## List of content
 * Common
-  * [Copy files depending of their extensions](./recipes/copy_files_depending_of_their_extensions/description.md)
-  * [Rich gulp output with debug info](./recipes/rich_gulp_output_with_debug_info/description.md)
-  * [Add source maps to JS or CSS](./recipes/add_source_maps_to_js_or_css/description.md)
-  * [Use different gulp pipeline depends on environment](./recipes/use_different_gulp_pipeline_depends_on_environment/description.md)
-  * [Delete files](./recipes/delete_files/description.md)
-  * [Watcher](./recipes/watcher/description.md)
   * [Add hash to file names](./recipes/add_hash_to_file_names/description.md)
-  * [Copy only files that have been changed](./recipes/copy_only_files_that_have_been_changed/description.md)
-  * [Filter only files that have been changed - gulp-newer](./recipes/filter_only_files_that_have_been_changed_gulp_newer/description.md)
-  * [Browser-sync, watch, build](./recipes/browser-sync_watch_build/description.md)
-  * [Error notifications](./recipes/error_notifications/description.md)
   * [Add prefix and postfix to file content](./recipes/add_prefix_and_postfix_to_file_content/description.md)
+  * [Add source maps to JS or CSS](./recipes/add_source_maps_to_js_or_css/description.md)
+  * [Browser-sync, watch, build](./recipes/browser-sync_watch_build/description.md)
+  * [Copy files depending of their extensions](./recipes/copy_files_depending_of_their_extensions/description.md)
+  * [Copy only files that have been changed](./recipes/copy_only_files_that_have_been_changed/description.md)
+  * [Delete files](./recipes/delete_files/description.md)
+  * [Error notifications](./recipes/error_notifications/description.md)
+  * [Filter only files that have been changed - gulp-newer](./recipes/filter_only_files_that_have_been_changed_gulp_newer/description.md)
+  * [Rich gulp output with debug info](./recipes/rich_gulp_output_with_debug_info/description.md)
+  * [Use different gulp pipeline depends on environment](./recipes/use_different_gulp_pipeline_depends_on_environment/description.md)
+  * [Watcher](./recipes/watcher/description.md)
 * CSS
   * [Less and Autoprefixer](./recipes/less_and_autoprefixer/description.md)
   * [Minify CSS](./recipes/minify_css/description.md)
